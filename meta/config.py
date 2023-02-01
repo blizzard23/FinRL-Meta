@@ -6,13 +6,13 @@ RESULTS_DIR = "results"
 
 # date format: '%Y-%m-%d'
 TRAIN_START_DATE = "2014-01-01"
-TRAIN_END_DATE = "2020-07-31"
+TRAIN_END_DATE = "2021-07-31"
 
-TEST_START_DATE = "2020-08-01"
-TEST_END_DATE = "2021-10-01"
+TEST_START_DATE = "2021-08-01"
+TEST_END_DATE = "2022-10-01"
 
-TRADE_START_DATE = "2021-11-01"
-TRADE_END_DATE = "2021-12-01"
+TRADE_START_DATE = "2022-11-01"
+TRADE_END_DATE = "2022-12-01"
 
 # stockstats technical indicator column names
 # check https://pypi.org/project/stockstats/ for different names
@@ -71,7 +71,7 @@ TIME_ZONE_SELFDEFINED = "xxx"  # If neither of the above is your time zone, you 
 USE_TIME_ZONE_SELFDEFINED = 0  # 0 (default) or 1 (use the self defined)
 
 # parameters for data sources
-ALPACA_API_KEY = "xxx"  # your ALPACA_API_KEY
-ALPACA_API_SECRET = "xxx"  # your ALPACA_API_SECRET
+ALPACA_API_KEY = "PKZR379P44U4QENQ8UOC"  # your ALPACA_API_KEY
+ALPACA_API_SECRET = "2LRcU8wUwl45ooilsOkoHSe1g2YCLFYe5lMQJaC2"  # your ALPACA_API_SECRET
 ALPACA_API_BASE_URL = "https://paper-api.alpaca.markets"  # alpaca url
 BINANCE_BASE_URL = "https://data.binance.vision/"  # binance url
