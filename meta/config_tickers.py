@@ -10,6 +10,9 @@ MY_TICKER = [
     "SYK",
     "TSLA",
     "UL", 
+    "PLUG",
+    "UNFI",
+    "LI",
 ]
 
 # Dow 30 constituents on 2021/10
