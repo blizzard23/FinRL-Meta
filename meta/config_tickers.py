@@ -1,7 +1,7 @@
 SINGLE_TICKER = ["AAPL"]
 
 CRYPTO_TICKER = [
-"TRX“,
+"TRX/USD“,
 "ETH/USD“,
 "BTC/USD“,
 "BCH/USD“,
