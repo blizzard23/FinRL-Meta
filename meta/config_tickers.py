@@ -1,5 +1,18 @@
 SINGLE_TICKER = ["AAPL"]
 
+CRYPTO_TICKER = [
+"TRX“,
+"ETH/USD“,
+"BTC/USD“,
+"BCH/USD“,
+"SOL/USD“,
+"LTC/USD“,
+"AVAX/USD“,
+"GRT/USD“,
+"ALGO/USD“,
+"NEAR/USD“,
+]
+
 MY_TICKER = [
     "FSLR",
     "HAIN",
